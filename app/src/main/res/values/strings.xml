@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HandzapAssignment</string>
+    <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="payment_method">
+        <item>No Preference</item>
+        <item>E-Payment</item>
+        <item>Cash</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>INR</item>
+        <item>USD</item>
+        <item>AED</item>
+    </string-array>
+</resources>
